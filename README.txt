@@ -11,7 +11,7 @@ dataset example:
     for more informations about the data: https://www.kaggle.com/datasets/uciml/mushroom-classification
 
 
-## Installation
+## Installations
     	You will need an IDE for phyton. (Pycharm3.9 is required)
     	all the pip installations can be acquired  from the requirements.txt file.
 
