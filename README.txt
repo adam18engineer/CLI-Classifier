@@ -1,5 +1,5 @@
 ## Author:
-	Michael Azeroual 342532421
+	Michael Adam 342532421
 
 ## About this project:
 In this project I built a classification and clustering CLI system working on any dataset using differents Machine Learning
